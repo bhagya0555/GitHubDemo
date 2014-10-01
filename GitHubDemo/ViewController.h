@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
-
+@property(nonatomic,strong) NSString *nameString;
+@property(nonatomic,strong) NSString *titleString;
 @end
