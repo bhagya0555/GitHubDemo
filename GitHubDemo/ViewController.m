@@ -18,7 +18,7 @@
 {
     [super viewDidLoad];
     NSLog(@"In master copy");
-    NSLog(@"hi");
+    NSLog(@"hi,github");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
